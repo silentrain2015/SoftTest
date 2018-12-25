@@ -13,10 +13,6 @@ public class BaseFunction
         //
         // TODO: 在此处添加构造函数逻辑
         //
-
-        public void Test()
-        {
-
-        }
+        
     }
 }
